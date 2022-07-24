@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Best School" 10 times and Hi for 9-th iteration
+# This script is displaying number from to1 up 20 times and Supertitious
 i=0  
 while [ $i -ne 20 ]
 do
