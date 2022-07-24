@@ -2,7 +2,7 @@
 # This script is displaying Time
 h=0
 min=0  
-while [ $h -ne 12 ]
+while [ $h -ne 13 ]
 do
 	if [ $min = 0 ]; then
 		((min++))
