@@ -10,7 +10,7 @@ do
 		echo "$min"
 	elif [ $min = 59 ]; then
 		echo "$min"
-		min=1
+		min=0
 		((h++))
 	else 
 		echo "$min"
